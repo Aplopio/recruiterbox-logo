@@ -2,7 +2,7 @@
 
 BUILD_PATH='build'
 
-get_color() {
+get_folder_name() {
     if [ "$#" -gt 0 ]
     then
         echo $1
@@ -31,12 +31,12 @@ then
     print_usage
 else
     sizes=(16 32 64 128 256 512 1024)
-    color=`get_color $@`
+    folder_name=`get_folder_name $@`
 
-    ensure_folder $color
+    ensure_folder $folder_name
 
     for size in "${sizes[@]}"
     do
-        inkscape --export-area-drawing --export-png "$BUILD_PATH/$color/$size.png" -w $size src/rbox-logo.svg
+        inkscape --export-area-drawing --export-png "$BUILD_PATH/$folder_name/$size.png" -w $size src/rbox-logo.svg
     done
 fi
