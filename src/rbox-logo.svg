@@ -9,34 +9,34 @@
    xmlns="http://www.w3.org/2000/svg"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="1000"
-   height="1000"
-   id="svg4032"
-   version="1.1"
    inkscape:version="0.48.5 r10040"
+   version="1.1"
+   id="svg2983"
+   height="1000"
+   width="1000"
    sodipodi:docname="rbox-logo.svg">
-  <defs
-     id="defs4034" />
   <sodipodi:namedview
      id="base"
      pagecolor="#ffffff"
      bordercolor="#666666"
      borderopacity="1.0"
-     inkscape:pageopacity="0.0"
+     inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.49497475"
-     inkscape:cx="497.45931"
-     inkscape:cy="483.80242"
+     inkscape:zoom="0.674"
+     inkscape:cx="473.29248"
+     inkscape:cy="452.70883"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
-     inkscape:window-width="1920"
+     inkscape:window-width="1867"
      inkscape:window-height="1056"
-     inkscape:window-x="0"
+     inkscape:window-x="53"
      inkscape:window-y="24"
      inkscape:window-maximized="1" />
+  <defs
+     id="defs2985" />
   <metadata
-     id="metadata4037">
+     id="metadata2988">
     <rdf:RDF>
       <cc:Work
          rdf:about="">
@@ -48,17 +48,14 @@
     </rdf:RDF>
   </metadata>
   <g
-     inkscape:label="Layer 1"
-     inkscape:groupmode="layer"
+     transform="translate(0,-52.362153)"
      id="layer1"
-     transform="translate(0,-52.362183)">
+     inkscape:groupmode="layer"
+     inkscape:label="Layer 1">
     <path
-       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;fill-rule:evenodd;stroke:none;font-family:Sans"
-       d="m 95.500639,523.36314 c -16.07491,16.0749 -16.07475,41.95728 0,58.03172 L 470.9539,956.84815 c 16.07499,16.07499 41.95714,16.07499 58.03172,0 l 74.8972,-74.8972 -318.93269,-318.93271 c 0,0 -1.50972,-3.54367 -1.8134,-6.04487 -0.005,-0.0449 0.005,-0.0769 -8e-5,-0.12091 -0.0386,-0.31302 -0.005,-0.57397 8e-5,-0.84619 0.002,-0.0364 -0.003,-0.084 -8e-5,-0.12092 0.0164,-0.32992 0.0413,-0.70897 0.12091,-1.0881 0.008,-0.0358 -0.008,-0.0848 -8e-5,-0.12091 0.0703,-0.31326 0.20107,-0.69617 0.30243,-1.02746 0.0191,-0.0624 0.0399,-0.11872 0.0605,-0.18137 0.28755,-0.90386 0.70659,-1.80339 1.088,-2.65986 0.0427,-0.0952 0.0192,-0.0884 0.0605,-0.18138 0.7197,-1.59518 1.313,-2.70268 1.39034,-2.84113 0.005,-0.008 0.0605,-0.18137 0.0605,-0.18137 l 69.51706,-69.39637 0.12092,0.12092 82.39294,-82.39294 -0.0605,-0.0605 0.0605,-0.0605 -0.0605,-0.0605 67.28052,-67.28051 c 0,0 6.41765,-6.10543 10.45781,-6.10543 3.95196,-0.011 10.27644,5.92408 10.27644,5.92408 l 159.76852,159.7685 -77.6779,77.67789 -27.02092,-27.02094 -0.12091,0.12091 -65.1648,-65.1648 -82.39297,82.39297 248.08563,248.08563 222.81766,-222.81765 c 16.07498,-16.07458 16.07498,-41.95674 0,-58.03172 L 529.04597,147.8495 c -8.03721,-8.03721 -18.58697,-12.02944 -29.07632,-12.02952 -10.48881,1.9e-4 -20.91809,3.99218 -28.9554,12.02952 L 95.500639,523.36314 z"
-       id="path4008"
-       inkscape:connector-curvature="0"
-       inkscape:export-filename="/home/viky/code/aplopio/rbox-logo/build/blue/1024.png"
-       inkscape:export-xdpi="110.62"
-       inkscape:export-ydpi="110.62" />
+       style="fill:#005889;fill-opacity:1;stroke:none"
+       d="m 64.666042,517.06479 c -19.554724,19.55474 -19.554724,51.03997 0,70.59471 L 464.70267,987.69611 c 19.55474,19.55469 51.03997,19.55469 70.5947,0 L 594.12628,928.86719 500.00002,834.74093 405.87376,740.61466 311.74749,646.4884 235.2699,570.01081 c -9.77736,-9.77736 -9.77736,-25.51997 0,-35.29734 l 76.47759,-76.47759 94.12627,-94.12626 76.47759,-76.47759 c 9.77736,-9.77737 25.51998,-9.77737 35.29734,0 l 76.47759,76.47759 94.12627,94.12626 -94.12627,94.12627 -94.12626,-94.12627 -94.12626,94.12627 94.12626,94.12625 94.12626,94.12626 94.12627,94.12627 247.08149,-247.08143 c 19.55461,-19.55474 19.55461,-51.03997 0,-70.59471 L 535.29737,117.02819 c -19.55473,-19.554733 -51.03996,-19.554733 -70.5947,0 L 64.666042,517.06479 z"
+       id="rect2991"
+       inkscape:connector-curvature="0" />
   </g>
 </svg>
