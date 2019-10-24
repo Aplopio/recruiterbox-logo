@@ -1,6 +1,6 @@
 {
   "name": "@atsi/recruiterbox-logo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Recruiterbox logo",
   "main": "index.js",
   "scripts": {
